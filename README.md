@@ -27,3 +27,33 @@
 # 6) git log
 - command do we use to check the history of our commits (snapshots).
 
+
+# Adding multiple files of a certain type.
+
+# Adding all files in directory (including hidden).
+
+# Removing files.
+
+# Ignoring files.
+
+
+# QUIZ
+# 7) git add -A
+- command do we use to add all files and folders (including hidden ones) to our git repository.
+
+# 8) git add *.html
+- command do we use to add all files of the same type.
+
+# 9) git reset HEAD helloWorld.js
+- command do we use to remove helloWorld.js from the staging area.
+
+# 10) .gitignore
+- the name of the file that we create in order to list all of the files and folders we want git to ignore.
+
+
+# GIT Branches
+- Listing all branches.
+- Adding a branch.
+- Changing branches.
+- Merging a branch.
+- Removing a branch.
